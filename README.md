@@ -16,7 +16,7 @@ This project implements a URL shortener service that allows users to shorten lon
 - Node.js (JavaScript runtime environment)
 - Express.js (Web Framework)
 - Mongoose (ODM for MongoDB)
-- (Add any other specific libraries used in the project)
+- NanoId
 
 ## Installation
 
